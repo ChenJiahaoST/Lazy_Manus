@@ -1,0 +1,6 @@
+lazyllm
+beautifulsoup4
+python-dotenv
+lxml_html_clean==0.4.1
+readability-lxml==0.8.1
+mcp==1.5.0
